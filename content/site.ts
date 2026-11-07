@@ -1,0 +1,25 @@
+export const site = {
+  name: "Harshal Yadav",
+  roleLine: "B.Tech IT Student · AWS & Cloud Builder",
+  availability: "Open to cloud & DevOps internships",
+  email: "harshal53076ydv@gmail.com",
+  location: "Pune, Maharashtra, India",
+  college: "JSPM's Rajarshi Shahu College of Engineering (RSCOE), Pune",
+  degree: "B.Tech in Information Technology",
+  year: "Third year",
+  expectedGraduation: "2028",
+  cgpa: "9.44",
+  avatar: "/shared/avatar-placeholder.svg",
+  cvFile: "/shared/Harshal_Yadav_resume.pdf",
+  socials: [
+    { label: "LinkedIn", short: "in", url: "https://www.linkedin.com/in/harshal-yadav-449bb9338/" },
+    { label: "GitHub", short: "GH", url: "https://github.com/Harshal-ydv" },
+    { label: "Credly · AWS", short: "C", url: "https://www.credly.com/users/harshal-yadav.70e0e87f" },
+    { label: "Credly · Google", short: "G", url: "https://www.credly.com/users/harshal-yadav.1954b905" },
+  ],
+  seoTitle: "Harshal Yadav — AWS & Cloud Builder | B.Tech IT, Pune",
+  seoDescription: "Portfolio of Harshal Yadav, a B.Tech IT student and AWS Student Builder Group core member building serverless apps, learning cloud architecture and DevOps.",
+  publicUrl: "", // Add the AWS portfolio URL after deployment; never publish localhost as the canonical URL.
+  footerCredit: "© 2026 Harshal Yadav",
+  specialBadge: "Core Member · AWS Student Builder Group, JSPM RSCOE",
+};
